@@ -20,6 +20,7 @@ M2_HOME=/opt/maven/apache-maven-3.8.7/bin
 PATH=$PATH:$HOME/bin:$M2_HOME
 export PATH
 ```
+sourec ~/.bash_profile
 ## make sure you only have java 11 instead java 17
 ```
 openjdk version "17.0.6" 2023-01-17 LTS
